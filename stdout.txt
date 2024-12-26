@@ -1,0 +1,2 @@
+ready to get inputs from stdin.
+to stdout Tidwdadwadwadwadwadwadwasdwas
